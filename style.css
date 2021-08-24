@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #87CCFF;
+    color: #E69720;
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    border: 6px #327199;
+}    
