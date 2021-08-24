@@ -21,6 +21,11 @@ img {
     border: 6px solid #327199;
     border-radius: 10px;
 }    
+
+h2{
+    transition: all 0.5s ease-in-out;
+}
+
 h2:hover {
     color: #63CBE6;
 }
